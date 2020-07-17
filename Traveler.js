@@ -22,4 +22,5 @@ class Traveler {
     getfood() {
         return this.food
     }
+
 }
